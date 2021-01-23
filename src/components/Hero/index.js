@@ -23,7 +23,7 @@ export const Hero = () => {
             <Sidebar isOpen={isOpen} toggle={toggle}/>
             <HeroContent>
                 <HeroItems>
-                    <HeroH1>Best Pizza in Town</HeroH1>
+                    <HeroH1>Best Pizza in Bandung</HeroH1>
                     <HeroP>Ready in 10 Minutes</HeroP>
                     <HeroBtn>Place Order</HeroBtn>
                 </HeroItems>
